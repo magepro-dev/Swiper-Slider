@@ -1,2 +1,2 @@
 # modman configuration file
-src app/code/Magepro/SwiperSlider
+src             app/code/Magepro/SwiperSlider

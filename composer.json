@@ -1,0 +1,26 @@
+{
+  "name": "magepro/swiper-slider",
+  "description": "Magento 2 module to implement Swiper Slider",
+  "type": "magento2-module",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Andrew Pashchenko"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://packages.magento.com/"
+    }
+  ],
+  "extra": {
+    "map": [
+      [
+        "*",
+        "MagePro/SwiperSlider"
+      ]
+    ]
+  },
+  "minimum-stability": "beta"
+}
